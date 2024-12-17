@@ -94,3 +94,17 @@ http://localhost:8501
 
 ### 4. Review Results
 - Review the generated insights to identify strengths, weaknesses, and areas for improvement.
+
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/71823305-07a9-4dd5-a4ca-7aa6340acb6e)
+
+![image](https://github.com/user-attachments/assets/decf90a2-3fb1-400c-b641-2ba3d622d664)
+
+![image](https://github.com/user-attachments/assets/c258cf06-9d68-4073-a77f-a82cfdc23097)
+
+
+![image](https://github.com/user-attachments/assets/0df42660-e983-40be-996c-c306972e02cc)
+
+![image](https://github.com/user-attachments/assets/e5b57391-8ec1-4c13-900c-8aab92aa9c79)
