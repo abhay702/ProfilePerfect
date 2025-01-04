@@ -27,7 +27,7 @@ Follow these steps to set up and run **ProfilePerfect** on your local machine.
 Clone the repository from GitHub and navigate to the project folder:
 
 ```bash
-git clone https://github.com/your-username/ProfilePerfect.git
+git clone https://github.com/abhay702/ProfilePerfect.git
 cd ProfilePerfect
 ```
 
